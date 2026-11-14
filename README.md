@@ -8,7 +8,7 @@ Only my own lab VM was tested. No third-party systems were involved.
 - SMB checks with NetExec and enum4linux-ng
 - MS17-010 and BlueKeep checks with Metasploit scanner modules (detection only)
 - Public exploit lookup with searchsploit
-- Missing patch analysis with WES-NG
+- Missing patch analysis with WES-NG 
 
 ## Result
 11 findings: 2 Critical, 3 High, 2 Medium, 2 Low, 2 Informational.
